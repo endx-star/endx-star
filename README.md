@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @endx-star
+- 👋 Hi, I’m Endale Tegegnework
 - 👀 I’m interested in coding and solving problems.
 - 🌱 I’m currently learning python programing language and general software development process.
 - 💞️ I’m looking to collaborate on long-time or short-time projects.
