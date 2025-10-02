@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Endale Tegegnework
 - 👀 I’m interested in coding and solving problems.
-- 🌱 I’m currently learning Agentic AI.
+- 🌱 I’m currently learning Agentic AI development.
 - 💞️ I’m looking to collaborate on long-time or short-time projects.
 - 📫 How to reach me with email endalework90@gmail.com
 
